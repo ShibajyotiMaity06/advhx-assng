@@ -141,7 +141,7 @@ const CompletedJobsAccordion = ({ completed }) => (
   </div>
 );
 
-const API = "http://localhost:5000";
+const API = "https://advhx-assng-e5y5.vercel.app/";
 
 function App() {
   const [jobs, setJobs] = useState([]);

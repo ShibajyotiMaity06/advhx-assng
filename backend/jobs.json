@@ -126,6 +126,14 @@
       "startTime": "2025-08-04T12:44:08.011Z",
       "stopTime": "2025-08-04T12:44:09.223Z",
       "durationMs": 1212
+    },
+    {
+      "id": 1,
+      "partName": "somename1",
+      "machineName": "M1",
+      "startTime": "2025-08-04T13:17:14.131Z",
+      "stopTime": "2025-08-04T13:17:22.675Z",
+      "durationMs": 8544
     }
   ]
 }
